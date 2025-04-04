@@ -1,0 +1,4 @@
+plugins:
+  - rubocop-rspec
+  - rubocop-rspec_rails
+  - rubocop-rails
