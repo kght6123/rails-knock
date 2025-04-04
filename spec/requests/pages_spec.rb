@@ -2,7 +2,7 @@
 
 require 'rails_helper'
 
-RSpec.describe 'Pages', type: :request do
+RSpec.describe 'Pages' do
   describe 'GET /' do
     it 'returns http success' do
       get root_path
